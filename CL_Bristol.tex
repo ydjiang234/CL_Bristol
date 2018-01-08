@@ -1,10 +1,19 @@
 \documentclass{article}
-\usepackage{fontspec}
-\setmainfont{Times New Roman}[SizeFeatures={Size=11}]
+%\usepackage{fontspec}
+%\setmainfont{Times New Roman}[SizeFeatures={Size=11}]
+\usepackage{times}
+\usepackage{color}
+\usepackage{hyperref}
+
+
+\newdimen\ls
+\ls=14.4pt
+
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{12pt}
-%\setlength{\baselineskip}{22pt}
-\renewcommand{\baselinestretch}{1.2}
+\setlength{\baselineskip}{\ls}
+%\renewcommand{\baselinestretch}{1.2}
+\fontsize{11pt}{11pt}
 
 
 \usepackage[a4paper]{geometry}
@@ -15,6 +24,30 @@
 
 \begin{document}
 
+
+\begin{center}
+
+    %My Name
+    \Large\selectfont
+    \textbf{\textsc{Yadong Jiang}}\\
+    
+    %My Address
+    \fontsize{11pt}{\ls}\selectfont
+    \input{address_me.txt}
+    
+    
+\end{center}
+\par
+
+%Address
+
+\fontsize{11pt}{\ls}\selectfont
+\input{address_UB.txt}
+
+\par
+\vspace{15pt}
+
+\fontsize{11pt}{\ls}\selectfont
 \input{Contents.txt}
 
 \end{document}
