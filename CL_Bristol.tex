@@ -1,7 +1,11 @@
 \documentclass{article}
 \usepackage{fontspec}
-%\setmainfont{Times New Roman}
-%\usepackage{times}
+\setmainfont{Times New Roman}[SizeFeatures={Size=11}]
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+%\setlength{\baselineskip}{22pt}
+\renewcommand{\baselinestretch}{1.2}
+
 
 \usepackage[a4paper]{geometry}
 \geometry{margin=1in}
@@ -11,7 +15,6 @@
 
 \begin{document}
 
-\normal
 \input{Contents.txt}
 
 \end{document}
