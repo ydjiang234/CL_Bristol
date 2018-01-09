@@ -1,30 +1,41 @@
 Dear Dr Alexander:
 \par
 %Introduce briefly myself and the purpose of the letter
-I am writing to apply for the Research Associate position of the project SAFER which was advertised on jobs.ac.uk.
-I am a PhD candidate majored in Earthquake Engineering and Engineering Seismology at  Istituto Universitario di Studi Superiori di Pavia (IUSS), Pavia. Currently, my doctoral dissertation has been already submitted and I am expecting to graduate in May 2018.
-I am confident that my research experience makes me an ideal candidate for your open position.
+I am writing to apply for the Research Associate position of the project SAFER, which was advertised on your university website. As a near complete PhD candidate at the Istituto Universitario di Studi Superiori di Pavia (IUSS), I am expecting to graduate in May 2018.
+I am extremely interested in obtaining your Research Associate at the University of Bristol, where I can continue my research on earthquake engineering and step into the first stage of my academic career.
 \par
 
 %Why I fit with your position.
 %What the job requires
 \iffalse
 Knowledge of advanced dynamics, including earthquake engineering
-Experience of experimental testing programs
-Experience of shake table experimental testing.
 Strong knowledge of structural engineering
 Knowledge of foundation design
+Experience of experimental testing programs
+Experience of shake table experimental testing.
+\fi
+I obtained my bachelor degree in Civil Engineering at Tongji University, where I developed a solid background in structural engineering.
+As an MSc and PhD candidate in Earthquake Engineering and Engineering Seismology, I have a very strong background in structural engineering and dynamics.
+During the course study period of my MSc and PhD. I had taken the courses (e.g. Fundamentals of Seismic Design, Seismic Design of Foundations, Seismic Isolation and Dissipation, e.t.c), which I believe can be useful for your projects.
+Within my research works in MSc and PhD period, I have experience in conducting experimental tests on Concrete-filled Steel Tubes.
+Moreover, I had worked at the Hong Kong Polytechnic Unversity as an exchange student in 2017, where I had assisted the preparation of specimens and coupon tests of steel properties.
+Therefore, I believe that I had enough experimental tests experience.
+
+\iffalse
+%Ability to program in Matlab
+%Strong ability in mathematically modelling
 \fi
 
 
 
-%Ability to program in Matlab
-%Strong ability in mathematically modelling
-
-
+\iffalse
 %Experience of presenting research findings at conferences and authoring research papers for journals
 %Proven ability to write and publish journal articles
 %Experience of delivering presentations at scientific conferences
+\fi
+During my MSc and PhD period, I have attended 100 conferences and presented my research findings orally.
+
+
 
 %Communication and Interpersonal Skills
 %Good written and spoken English.
