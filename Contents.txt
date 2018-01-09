@@ -25,6 +25,7 @@ Therefore, I believe that I had enough experimental tests experience.
 %Ability to program in Matlab
 %Strong ability in mathematically modelling
 \fi
+Despite my solid background in Earthquake Engineering, I have also skills to use software tools to assist my research works. Throughout my undergraduate and postgraduate study, I had developed good programming skills in Matlab, Python, C++ etc. I have used the programs to deal with large sets of data, generating graphs.
 
 
 
@@ -33,22 +34,26 @@ Therefore, I believe that I had enough experimental tests experience.
 %Proven ability to write and publish journal articles
 %Experience of delivering presentations at scientific conferences
 \fi
-During my MSc and PhD period, I have attended 100 conferences and presented my research findings orally.
+During my MSc and PhD period, I have published more than 10 journal and conference papers as first author or second author. So I am experienced in authoring research papers.
+During my MSc and PhD period, I have attended 5 conferences (e.g. STESSA15, 16WCEE, EuroSteel2017, etc. ) and presented my research findings orally.
 
 
 
 %Communication and Interpersonal Skills
 %Good written and spoken English.
 %Strong organizational and teamwork skills.
+During my PhD research, I had assisted my supervisors to guide the master final project of two MSc students from IUSS. 
+In the exchange period in HongKong PolyU, I had also collaborated with PhD student of the host university to investigate the study of Octagonal CFST columns.
 
 
 %The motivation of my application
-
-
-
+As approaching the end of my PhD period, I am looking for a suitable research position to start my academic career.
+The University of Bristol, which is very strong on engineering, only in the UK, but also all over the world, attracts me.
+Your research group, which is specifically in Earthquake Engineering and have lots of achievements in the previous year, had attracted me. I think your group is very suitable for me, not only in aspects of my research interests but also be good to my academic career. 
 
 %Finnal declaration
-
+As a high standard research group, I understand that the competition for the Research Associate position is hard.
+I believe that my academic capability and efforts would contribute to your research group demands. 
 
 
 Sincerely,\\
