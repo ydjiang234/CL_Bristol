@@ -1,8 +1,7 @@
 Dear Dr Alexander:
 \par
 %Introduce briefly myself and the purpose of the letter
-I am writing to apply for the Research Associate position of the project SAFER, which was advertised on your university website. As a near complete PhD candidate at the Istituto Universitario di Studi Superiori di Pavia (IUSS), I am expecting to graduate in May 2018.
-I am extremely interested in obtaining your Research Associate at the University of Bristol, where I can continue my research on earthquake engineering and step into the first stage of my academic career.
+I am writing to apply for the Research Associate position of the SAFER project, which was advertised on your university website. I am completing my PhD in Earthquake Engineering and Engineering Seismology at the Istituto Universitario di Studi Superiori di Pavia (IUSS) with an expected degree date of May 2018. I am extremely interested in obtaining your Research Associate at the University of Bristol, where I can not only make substantial contributions to your SAFER project but also step into a new stage of my academic career.
 \par
 
 %Why I fit with your position.
@@ -14,47 +13,34 @@ Knowledge of foundation design
 Experience of experimental testing programs
 Experience of shake table experimental testing.
 \fi
-I obtained my bachelor degree in Civil Engineering at Tongji University, where I developed a solid background in structural engineering.
-As an MSc and PhD candidate in Earthquake Engineering and Engineering Seismology, I have a very strong background in structural engineering and dynamics.
-During the course study period of my MSc and PhD. I had taken the courses (e.g. Fundamentals of Seismic Design, Seismic Design of Foundations, Seismic Isolation and Dissipation, e.t.c), which I believe can be useful for your projects.
-Within my research works in MSc and PhD period, I have experience in conducting experimental tests on Concrete-filled Steel Tubes.
-Moreover, I had worked at the Hong Kong Polytechnic Unversity as an exchange student in 2017, where I had assisted the preparation of specimens and coupon tests of steel properties.
-Therefore, I believe that I had enough experimental tests experience.
 
 \iffalse
 %Ability to program in Matlab
 %Strong ability in mathematically modelling
 \fi
-Despite my solid background in Earthquake Engineering, I have also skills to use software tools to assist my research works. Throughout my undergraduate and postgraduate study, I had developed good programming skills in Matlab, Python, C++ etc. I have used the programs to deal with large sets of data, generating graphs.
-
-
 
 \iffalse
 %Experience of presenting research findings at conferences and authoring research papers for journals
 %Proven ability to write and publish journal articles
 %Experience of delivering presentations at scientific conferences
 \fi
-During my MSc and PhD period, I have published more than 10 journal and conference papers as first author or second author. So I am experienced in authoring research papers.
-During my MSc and PhD period, I have attended 5 conferences (e.g. STESSA15, 16WCEE, EuroSteel2017, etc. ) and presented my research findings orally.
-
 
 
 %Communication and Interpersonal Skills
 %Good written and spoken English.
 %Strong organizational and teamwork skills.
-During my PhD research, I had assisted my supervisors to guide the master final project of two MSc students from IUSS. 
-In the exchange period in HongKong PolyU, I had also collaborated with PhD student of the host university to investigate the study of Octagonal CFST columns.
+
+My undergraduate and postgraduate experiences in Civil Engineering prepare me to be an effective researcher in the structural field, especially in Earthquake Engineering. In my PhD dissertation, “Seismic Assessment of Composite Frames with Concrete-Filled Steel Tube Columns (CFST)”, I have characterized the monotonic and cyclic bending behaviour of CFST members by conducting experimental tests and developing numerical models. By conducting the parametric study, I have derived the material strength correction equations for CFST member to account for the composite effects. Finally, my PhD research closed with the seismic performance assessment of composite structures by carrying out Incremental Dynamic Analysis (IDA). Throughout my undergraduate and postgraduate study, I had developed good programming skills in Matlab, Python, C++ etc. Without these tools to generate and control the thousands of analysis as well as post-processing the analytical data, it is not possible to complete my PhD research in three years. Until the end of my PhD research, I have published 10 journal/conference papers and attended 6 conferences/workshops to present my research achievements orally. In addition to my research projects, the courses I took during my postgraduate training, (e.g. Fundamentals of Seismic Design, Seismic Design of Foundations, Seismic Isolation and Dissipation, etc.), could also make me adapt to your project smoothly.
+
+
+In addition to my PhD research, I was contracted by Hong Kong Polytechnic University (PolyU) and got involved in the project “Application of Polygonal High Strength Concrete-filled composite Column in Seismic-resistant Buildings in Hong Kong” for four months. During my stay in Hong Kong, I collaborated with the local PhD students to prepare the CFST specimens and conduct the steel coupon tests. My working experiences in PolyU not only enhanced my lab experiences but also strengthened my teamwork skills. In the meantime of conducting my PhD research, I had assisted three MSc students with their final projects. These working and supervision experiences make me find that the collaboration with other researchers/students can always not only complete project targets with high quality but also inspire new ideas for my future research.
 
 
 %The motivation of my application
-As approaching the end of my PhD period, I am looking for a suitable research position to start my academic career.
-The University of Bristol, which is very strong on engineering, only in the UK, but also all over the world, attracts me.
-Your research group, which is specifically in Earthquake Engineering and have lots of achievements in the previous year, had attracted me. I think your group is very suitable for me, not only in aspects of my research interests but also be good to my academic career. 
+
 
 %Finnal declaration
-As a high standard research group, I understand that the competition for the Research Associate position is hard.
-I believe that my academic capability and efforts would contribute to your research group demands. 
-
+I am enclosing my curriculum vitae for your kind perusal. If you require any additional materials or information, I will be glad to supply. Thank you for your consideration and I look forward to hearing from you soon.
 
 Sincerely,\\
 Yadong Jiang
