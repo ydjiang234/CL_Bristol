@@ -1,46 +1,18 @@
 Dear Dr Alexander:
-\par
-%Introduce briefly myself and the purpose of the letter
-I am writing to apply for the Research Associate position of the SAFER project, which was advertised on your university website. I am completing my PhD in Earthquake Engineering and Engineering Seismology at the Istituto Universitario di Studi Superiori di Pavia (IUSS) with an expected degree date of May 2018. I am extremely interested in obtaining your Research Associate at the University of Bristol, where I can not only make substantial contributions to your SAFER project but also step into a new stage of my academic career.
-\par
 
-%Why I fit with your position.
-%What the job requires
-\iffalse
-Knowledge of advanced dynamics, including earthquake engineering
-Strong knowledge of structural engineering
-Knowledge of foundation design
-Experience of experimental testing programs
-Experience of shake table experimental testing.
-\fi
+I am writing to apply for the Research Associate position of the SAFER project, which was advertised on the  University of Bristol website. I am completing my PhD in Earthquake Engineering and Engineering Seismology at the Istituto Universitario di Studi Superiori di Pavia (IUSS) with an expected degree date of May 2018. I am extremely interested in obtaining your Research Associate at the University of Bristol, where I can not only make substantial contributions to your SAFER project but also step into a new stage of my academic career.
 
-\iffalse
-%Ability to program in Matlab
-%Strong ability in mathematically modelling
-\fi
+My undergraduate and postgraduate experiences in Civil Engineering prepare me to be an effective researcher in the structural field, especially in Earthquake Engineering. In my PhD dissertation, “Seismic Assessment of Composite Frames with Concrete-Filled Steel Tube Columns (CFST)”, I have characterized the monotonic and cyclic bending behaviour of CFST members by conducting experimental tests and developing numerical models. In my research, both experimental tests and numerical studies were carried out. By conducting parametric study, I have derived the material strength correction equations for CFST member to account for the composite effects. Finally, my PhD research closed with the seismic performance assessment of composite structures by carrying out Incremental Dynamic Analysis (IDA).
 
-\iffalse
-%Experience of presenting research findings at conferences and authoring research papers for journals
-%Proven ability to write and publish journal articles
-%Experience of delivering presentations at scientific conferences
-\fi
+Throughout my undergraduate and postgraduate study, I had developed good programming skills in Matlab, Python, C++ etc. Without the these tools to generate and control the thousands of analysis as well as post-processing the analytical data, it is not possible to complete my PhD research in three years. As my curriculum vitae illustrates, I have published 10 journal/conference papers and attended 6 conferences/workshops to present my research achievements orally. In additional to my research projects, the courses I took during my postgraduate training, (e.g. Fundamentals of Seismic Design, Seismic Design of Foundations, Seismic Isolation and Dissipation, etc.) built me a solid background on Earthquake Engineering, which could make me adapt to your project smoothly.My PhD research has a very strong connection with the laboratory in the University of Porto, where the experimental tests were conducted. Thus, I have spent periods working in FEUP to prepare the test campaign and carry out the tests. and developed a good collaboration with the local researchers.
 
+In the meantime of conducting my PhD research, I had assisted three MSc students with their final projects. These working and supervision experiences make me find that the collaborating with other researchers/students can always not only complete project targets with high quality but also inspire new ideas for my future research. In addition to my PhD research, I was contracted by Hong Kong Polytechnic University (PolyU) and got involved in the project “Application of Polygonal High Strength Concrete-filled composite Column in Seismic-resistant Buildings in Hong Kong” for four months. During my stay in Hong Kong, I collaborated with the local PhD students to prepare the CFST specimens and conduct the steel coupon tests. My working experiences in PolyU not only enhanced my lab experiences but also strengthened my teamworks skills.
 
-%Communication and Interpersonal Skills
-%Good written and spoken English.
-%Strong organizational and teamwork skills.
+It is my goal to secure a position where I can put my energies into the Earthquake Engineering field. Your Research Associate position agrees well with my research interests, which can make me achieve my goal. My background on Earthquake Engineering and my research experiences have primed me to face any challenges of the Research Associate position of the SAFER project. Moreover, my international collaboration ability.
 
-My undergraduate and postgraduate experiences in Civil Engineering prepare me to be an effective researcher in the structural field, especially in Earthquake Engineering. In my PhD dissertation, “Seismic Assessment of Composite Frames with Concrete-Filled Steel Tube Columns (CFST)”, I have characterized the monotonic and cyclic bending behaviour of CFST members by conducting experimental tests and developing numerical models. By conducting the parametric study, I have derived the material strength correction equations for CFST member to account for the composite effects. Finally, my PhD research closed with the seismic performance assessment of composite structures by carrying out Incremental Dynamic Analysis (IDA). Throughout my undergraduate and postgraduate study, I had developed good programming skills in Matlab, Python, C++ etc. Without these tools to generate and control the thousands of analysis as well as post-processing the analytical data, it is not possible to complete my PhD research in three years. Until the end of my PhD research, I have published 10 journal/conference papers and attended 6 conferences/workshops to present my research achievements orally. In addition to my research projects, the courses I took during my postgraduate training, (e.g. Fundamentals of Seismic Design, Seismic Design of Foundations, Seismic Isolation and Dissipation, etc.), could also make me adapt to your project smoothly.
-
-
-In addition to my PhD research, I was contracted by Hong Kong Polytechnic University (PolyU) and got involved in the project “Application of Polygonal High Strength Concrete-filled composite Column in Seismic-resistant Buildings in Hong Kong” for four months. During my stay in Hong Kong, I collaborated with the local PhD students to prepare the CFST specimens and conduct the steel coupon tests. My working experiences in PolyU not only enhanced my lab experiences but also strengthened my teamwork skills. In the meantime of conducting my PhD research, I had assisted three MSc students with their final projects. These working and supervision experiences make me find that the collaboration with other researchers/students can always not only complete project targets with high quality but also inspire new ideas for my future research.
-
-
-%The motivation of my application
-
-
-%Finnal declaration
 I am enclosing my curriculum vitae for your kind perusal. If you require any additional materials or information, I will be glad to supply. Thank you for your consideration and I look forward to hearing from you soon.
 
 Sincerely,\\
-Yadong Jiang
+Yadong Jiang\\
+PhD Candidate, ROSE Programme\\
+Istituto Universitario di Studi Superiori di Pavia (IUSS), Pavia, Italy
